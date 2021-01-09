@@ -102,7 +102,7 @@ console.log(friends);
 
 console.log(friends.length);
 */
-
+/*
 var friends = [
     "mahmoud",
     "Hassan",
@@ -128,6 +128,42 @@ friends.shift();
 console.log(friends);
 
 console.log(friends.length);
+*/
 
+/*
+var friends = [
+    "mahmoud",
+    "Hassan",
+    "Soha",
+    "Ahmad",
+    "Zahra",
+    "Hind",
+    "Mohamad",
+    "samer"
 
+];
 
+console.log(friends);
+
+friends.shift();
+
+console.log(friends);
+*/
+
+var friends = [
+    "mahmoud",
+    "Hassan",
+    "Soha",
+    "Ahmad",
+    "Zahra",
+    "Hind",
+    "Mohamad",
+    "samer"
+
+];
+
+console.log(friends);
+
+friends.shift();
+
+console.log(friends);
